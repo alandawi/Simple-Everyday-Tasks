@@ -1,0 +1,59 @@
+html { 
+	font: small/1.4 "Lucida Grande", Tahoma, sans-serif;
+}
+
+body {
+	background: #FFFFFF;
+}
+
+p {
+	margin: 2px 0 0 0 !important;
+}
+
+
+#container_set {
+	margin: 0 auto;
+	width: 510px;
+}
+
+
+div.enter_set {
+	margin: 0;
+	padding: 15px;
+	/*height: 25px;*/
+	width: auto;
+	background: #EEE;
+	border: 1px solid #AAA;
+}
+div.set_list {	
+}
+div.set_list > div.set {
+	min-width:350px;
+	max-width:510px;
+	min-height:25px;
+	margin-top: 10px;
+	padding: 10px 30px 10px 30px;
+	background: #F5F5F5;
+	border: 1px solid #CCC;
+}
+
+div.set_list > div.set > div {
+	float: left;		
+}
+div.set_list > div.set > div.set_description {
+	margin-left: 10px;
+}
+div.set_list > div.checked {
+	background: #51A351;
+}
+
+
+form {
+	margin: 0 !important;
+}
+#set_form input {
+	width: 350px;
+}
+.btn-info {
+	margin: 0 !important;
+}
