@@ -1,4 +1,4 @@
-# Simple-Everyday-Tasks
+# Simple Everyday Tasks
 SET is a personal task manager extremely simple and easy to use.
 
 
@@ -8,16 +8,22 @@ Created with:
 
 
 ## Screenshoots
-![screenshots1](https://github.com/alandawi/Simple-Everyday-Tasks/raw/master/screenshots/screenshots1.jpg "Screenshoot 1")
-![screenshots2](https://github.com/alandawi/Simple-Everyday-Tasks/raw/master/screenshots/screenshots2.jpg "Screenshoot 2")
+![screenshots1](https://raw.github.com/alandawi/Simple-Everyday-Tasks/master/screenshots/screenshoot1.jpg "Screenshoot 1")
+![screenshots2](https://raw.github.com/alandawi/Simple-Everyday-Tasks/master/screenshots/screenshoot2.jpg "Screenshoot 2")
 
 
 ## Feedback / Contact
 * __[Website](http://www.alandawi.com.ar/)__
-* __[@alandawi](https://twitter.com/alandawi)__
+* __[Twitter](https://twitter.com/alandawi)__
 * __[Facebook](http://www.facebook.com/alandawi)__
+
+
+## Changelog
+
+* Initial Release
 
 
 ## License
 The MIT License
+
 Copyright (c) 2012
